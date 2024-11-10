@@ -1,0 +1,8 @@
+apiVersion: v2
+name: wordpress
+description: A Helm chart for deploying WordPress
+version: 0.1.1
+appVersion: "0.1.1"
+maintainers:
+  - name: Dzmitry bichko
+    email: dmitrijbichko@gmail.com
